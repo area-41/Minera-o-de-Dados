@@ -11,7 +11,7 @@
 		Baseados em Densidade 
 		Hierárquicos:
 			Abordagem Aglomerativa (grupo cada elemento e depois junta)
-			Abordagem Divisiva (grupo maior com todos elementos e vai dividindo)
+			Abordagem Divisiva (grupo maior com todos os elementos e vai dividindo)
 
 ### Classificação
 	O conjunto de treinamento já possui objetos classificados
