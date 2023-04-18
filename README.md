@@ -16,6 +16,3 @@
 ### Classificação
 	O conjunto de treinamento já possui objetos classificados
 	Aprendizado Supervisionado
-
-
-### Teste connexao
